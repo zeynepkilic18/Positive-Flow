@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921774918052",
+    "project_id": "pozitivity-9b027",
+    "storage_bucket": "pozitivity-9b027.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921774918052:android:09e6ca218693e4a5a95931",
+        "android_client_info": {
+          "package_name": "com.example.pozitivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWmvub7gWB1hV9DntZQBwC3iXae3xqbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
